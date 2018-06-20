@@ -1,2 +1,4 @@
 # imgur-me
-Simple GO program that given an imgur url, downloads the image into a specified location.
+
+The intention of this program is to grab a specified Imgur URL and download the image locally.
+
